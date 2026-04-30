@@ -4,9 +4,7 @@ Markdown versions of regulatory documents for Slovakia, sourced from the DBNSA R
 
 ## Documents
 
-| Document | Source File |
-|---|---|
-| [QF High Level Overview For Slovakia](QF_High_Level_Overview_for_Slovakia.md) | QF High Level Overview for Slovakia.pdf |
+*Document index will be updated once files are processed.*
 
 ## Source
 
